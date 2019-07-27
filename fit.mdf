@@ -1,0 +1,136 @@
+Ident  = #Delft3D-FLOW 3.59.01.57433#
+Commnt =                  
+Runtxt = #port everglades#
+Filcco = #cm15.grd#
+Filgrd = #cm15.enc#
+MNKmax = 244 92 5
+Thick  =  1.0000000e+001
+          1.5000000e+001
+          2.0000000e+001
+          2.5000000e+001
+          3.0000000e+001
+Commnt =                  
+Fildep = #ft70.dep#
+Commnt =                  
+Commnt =                 no. dry points: 0
+Commnt =                 no. thin dams: 0
+Commnt =                  
+Itdate = #2016-01-01#
+Tunit  = #M#
+Tstart =  262080
+Tstop  =  262320
+Dt     = 0.5
+Tzone  = 0
+Commnt =                  
+Sub1   = #STW #
+Sub2   = #   #
+Commnt =                  
+Wnsvwp = #N#
+Filwnd = #ftldl_noaa_2016_17_18.wnd#
+Wndint = #Y#
+Commnt =                  
+Commnt =                 initial conditions from restart file
+Restid = #jan.20180131.000000#
+Commnt =                  
+Commnt =                 no. open boundaries: 12
+Filbnd = #fit.bnd#
+FilbcT = #fit.bct#
+FilbcC = #fit.bcc#
+Rettis =  0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+Rettib =  0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+          0.0000000e+000
+Commnt =                  
+Ag     =  9.8100000e+000
+Rhow   =  1.0000000e+003
+Tempw  =  1.5000000e+001
+Salw   =  3.1000000e+001
+Wstres =  6.3000000e-004  0.0000000e+000  7.2300000e-003  1.0000000e+002  7.2300000e-003  1.0000000e+002
+Rhoa   =  1.0000000e+000
+Betac  =  5.0000000e-001
+Equili = #N#
+Tkemod = #K-epsilon   #
+Ktemp  = 1
+Fclou  =  0.0000000e+000
+Sarea  =  1.0000000e+004
+Secchi =  2.0000000e+000
+Stantn =  1.3000000e-003
+Dalton =  1.3000000e-003
+Filtmp = #ftldl_1d_2016_17_18.tem#
+Temint = #Y#
+Commnt =                  
+Roumet = #C#
+Ccofu  =  5.5000000e+001
+Ccofv  =  5.5000000e+001
+Xlo    =  0.0000000e+000
+Vicouv =  1.0000000e+000
+Dicouv =  1.0000000e+000
+Htur2d = #N#
+Vicoww =  0.0000000e+000
+Dicoww =  0.0000000e+000
+Irov   = 0
+Commnt =                  
+Iter   =      2
+Dryflp = #YES#
+Dpsopt = #MIN#
+Dpuopt = #MEAN#
+Dryflc =  1.0000000e-001
+Dco    = -9.9900000e+002
+Tlfsmo =  6.0000000e+001
+ThetQH =  0.0000000e+000
+Forfuv = #Y#
+Forfww = #Y#
+Sigcor = #N#
+Trasol = #Cyclic-method#
+Momsol = #Cyclic#
+Commnt =                  
+Commnt =                 no. discharges: 0
+Commnt =                 no. observation points: 6
+Filsta = #fit.obs#
+Commnt =                 no. drogues: 0
+Commnt =                  
+Commnt =                  
+Commnt =                 no. cross sections: 0
+Commnt =                  
+SMhydr = #YYYYY#     
+SMderv = #YYYYYY#    
+SMproc = #YYYYYYYYYY#
+PMhydr = #YYYYYY#    
+PMderv = #YYY#       
+PMproc = #YYYYYYYYYY#
+SHhydr = #YYYY#      
+SHderv = #YYYYY#     
+SHproc = #YYYYYYYYYY#
+SHflux = #YYYY#      
+PHhydr = #YYYYYY#    
+PHderv = #YYY#       
+PHproc = #YYYYYYYYYY#
+PHflux = #YYYY#      
+Flmap  =  1.0526400e+006 1440  1.5768000e+006
+Flhis  =  0.0000000e+000 6  1.4400000e+003
+Flpp   =  1.0526400e+006 1440  1.5768000e+006
+Flrst  = 1440
+Commnt =                  
+Online = #N#
+Fileva = #ftldl_1d_2016_17_18.eva#
+Commnt =                  
