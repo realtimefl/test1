@@ -1,5 +1,6 @@
 …or create a new repository on the command line
-echo "# test1" >> README.md
+and from command lines ....
+
 git init
 git add README.md
 git commit -m "first commit"
@@ -9,3 +10,10 @@ git push -u origin master
 
 
 
+next uploading files ...
+
+$ git add .
+
+$ git commit -m "Add existing file"
+
+$ git push origin your-branch
