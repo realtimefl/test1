@@ -2,7 +2,6 @@
 and from command lines ....
 
 git init
-git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/realtimefl/test1.git
 git push -u origin master
@@ -10,10 +9,3 @@ git push -u origin master
 
 
 
-next uploading files ...
-
-$ git add .
-
-$ git commit -m "Add existing file"
-
-$ git push origin your-branch
