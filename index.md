@@ -8,10 +8,6 @@
    <p> We have developed numerical model using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, an open source, 3-dimensional, finite difference, hydrodynamic and sediment transport modeling system. A curvilinear orthogonal grid was created with grid size ranging from 9 m in inlet to 385 in the coastal area and with 5 sigma layers.  The grid represents coastline from Hillsboro Inlet to South Lake in Hollywood Beach.
    </p>
    
-<script type="text/javascript">
-  alert("This alert box was called with the onload event");
-</script>
-
   <a href="gmap4.JPG"> <img src="gmap6.JPG" width="266" align="justify"> </a> 
   <a href="c24.JPG"> <img src="c24.JPG" width="300" align="justify"> </a> 
  
@@ -20,6 +16,7 @@
     <p> The model is driven by water elevation time series that includes tides and lower frequency sea level oscillations, and meteorological forcing. The temperature, salinity and sea surface elevation along north, south and east open boundaries were derived from <a href="https://www.hycom.org/data/gomu0pt04/expt-90pt1m000">HYCOM and NCODA Gulf of Mexico 1/25° Analysis</a>. The meteorological forcing (relative humidity, air temperature, wind, heatflux and precipitation) was derived from <a href="https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam">North American Mesoscale Forecast system (NAM).</a>
     </p>
  
+  <script src="demo.js"></script>
   
   <div class="column">
   <h1>Parameters Predicted</h1>
