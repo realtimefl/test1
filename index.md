@@ -62,17 +62,7 @@
     <a href="Corr_hycom_March.jpg"> <img src="Corr_hycom_March.jpg" width="810" align="justify"> </a>      
    </p>
   </div>  
- 
-<p id="demon"></p>
-
-<script>
-var price1 = 7;
-var price2 = 6;
-var total = price1 + price2;
-document.getElementById("demon").innerHTML =
-"The total is: " + total;
-</script> 
- 
+  
 </body>
 
 <footer>
