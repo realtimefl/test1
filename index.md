@@ -13,7 +13,7 @@
    </p>
    
 <p id="demo">A Paragraph.</p>
-<button type="button" onclick="myFunction()">Try it</button>
+<button type="button" onclick="clickfn()">Try it</button>
 
   <a href="gmap4.JPG"> <img src="gmap6.JPG" width="266" align="justify"> </a> 
   <a href="c24.JPG"> <img src="c24.JPG" width="300" align="justify"> </a> 
