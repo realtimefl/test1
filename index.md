@@ -4,15 +4,6 @@
  
 <body>
 
-<p id="demo"></p>
-<script>
-var price1 = 5;
-var price2 = 6;
-var total = price1 + price2;
-document.getElementById("demo").innerHTML =
-"The total is: " + total;
-</script>
-
   <h1>Model Setup </h1>
    <p> We have developed numerical model using <a href="https://oss.deltares.nl/web/delft3d">Delft3D</a>, an open source, 3-dimensional, finite difference, hydrodynamic and sediment transport modeling system. A curvilinear orthogonal grid was created with grid size ranging from 9 m in inlet to 385 in the coastal area and with 5 sigma layers.  The grid represents coastline from Hillsboro Inlet to South Lake in Hollywood Beach.
    </p>
@@ -71,7 +62,17 @@ document.getElementById("demo").innerHTML =
     <a href="Corr_hycom_March.jpg"> <img src="Corr_hycom_March.jpg" width="810" align="justify"> </a>      
    </p>
   </div>  
-  
+ 
+<p id="demon"></p>
+
+<script>
+var price1 = 7;
+var price2 = 6;
+var total = price1 + price2;
+document.getElementById("demon").innerHTML =
+"The total is: " + total;
+</script> 
+ 
 </body>
 
 <footer>
